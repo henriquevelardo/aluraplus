@@ -2,4 +2,4 @@
 
 Pagina inicial Alura+, projeto acadêmico utilizando HTML5 e CSS.
 
-Projeto utiliza flex e Grid container
+Projeto utiliza Flex e Grid container
